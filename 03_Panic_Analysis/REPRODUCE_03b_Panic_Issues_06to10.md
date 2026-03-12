@@ -5,9 +5,14 @@
 
 ## Common Setup
 ```bash
-PANIC_DIR=~/yocto/poky/meta-kotesh/recipes-kernel/kotesh-panic-driver
-DTS=~/dtstest/qemu-virt.dts
-DTB=~/dtstest/kotesh-test.dtb
+EXPORT PANIC_DIR=~/yocto/poky/meta-kotesh/recipes-kernel/kotesh-panic-driver
+EXPORT DTS=~/dtstest/qemu-virt.dts
+EXPORT DTB=~/dtstest/kotesh-test.dtb
+
+#Varify with confomation 
+echo $DTB 
+echo $DTS
+ls $DTS
 
 # After every DTS change:
 dtc -I dts -O dtb -o $DTB $DTS
