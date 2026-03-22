@@ -11,7 +11,7 @@
 Transitioning from bare-metal embedded to Linux BSP/kernel driver development.  
 Author: *Embedded Linux / Kernel Debugging — Real Problems from BSP to Kernel* (Part 1 & 2)
 
-📧 Connect: [github.com/kotesh408](https://github.com/kotesh408)
+📧 Connect: [github.com/kotesh508](https://github.com/kotesh508)
 
 ---
 
@@ -179,7 +179,7 @@ Each `.md` file is self-contained:
 
 | Project | Description |
 |---|---|
-| [embedded-linux-bsp-30days](https://github.com/kotesh408/embedded-linux-bsp-30days) | 30-day BSP learning journey |
+| [embedded-linux-bsp-30days](https://github.com/kotesh508/embedded-linux-bsp-30days) | 30-day BSP learning journey |
 | *Embedded Linux / Kernel Debugging* (Book) | Practical field guide — Part 1 & Part 2 |
 
 ---
